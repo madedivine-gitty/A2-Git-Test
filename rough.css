@@ -265,7 +265,7 @@ body{
     .closeBtn{
         width: 1.5rem;
         height: 1.5rem;
-        background-image: url("./closeIcon.png");
+        background-image: url("./assets/closeIcon.png");
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
@@ -279,7 +279,7 @@ body{
     .closeBtn:hover{
         width: 1.5rem;
         height: 1.5rem;
-        background-image: url("./closeHover.png");
+        background-image: url("./assets/closeHover.png");
         background-size: cover;
         background-position: center;
         transition: 0.3s;
